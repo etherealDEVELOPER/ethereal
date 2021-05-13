@@ -30,7 +30,7 @@ p.title {
   text-align    : center;
   font-family: 'Bebas Neue', cursive;
   letter-spacing: 2px;
-  text-shadow   : 0px 0px 10px #75ffcabe;
+  text-shadow   : 0px 0px 10px #00ccff;
 }
 
 p.sub-title {
@@ -40,11 +40,11 @@ p.sub-title {
   top           : 40px;
   font-family: 'Bebas Neue', cursive;
   letter-spacing: 2px;
-  text-shadow   : 0px 0px 8px #75ffcabe;
+  text-shadow   : 0px 0px 8px #00ccff;
 }
 
 span[data-color="primary"] {
-  color: #75ffca;
+  color: #00ccff;
 }
 
 span[data-color="secondary"] {
